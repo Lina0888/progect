@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test-2
+=======
+Test
+>>>>>>> ebe2039 (new fail cherry-branch)
